@@ -1,0 +1,40 @@
+
+body {
+
+}
+
+.first_block {
+    background-color: #1F2937;
+}
+
+a, ul {
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar {
+    display: flex;
+    gap: 20px;
+}
+
+.logo {
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.topheader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
